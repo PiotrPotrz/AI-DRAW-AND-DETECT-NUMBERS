@@ -9,4 +9,4 @@ If you want to remove your drawing, press "k".
 In order to classify your number, press "v".
 
 
-To quit the programm, press "q".
+To quit the program, press "q".
